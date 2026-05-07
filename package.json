@@ -1,7 +1,7 @@
 {
   "name": "test-automation-playwright",
   "version": "1.0.0",
-  "description": "",
+  "description": "Playwright tests for The Internet",
   "main": "index.js",
   "scripts": {},
   "repository": {
