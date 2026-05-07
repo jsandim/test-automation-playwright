@@ -4,7 +4,7 @@ import { test, expect } from '@playwright/test';
 const loginCredentials = [
   {
     case: 'valid credentials',
-    username: 'tomsmith',
+    username: 'tomsmith7',
     password: 'SuperSecretPassword!',
     expectedFlash: 'You logged into a secure area!',
   },
